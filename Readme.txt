@@ -1,0 +1,2 @@
+WebCamA2DSys.slnからコードを開く．
+Readme.hに大まかなクラスの仕様が記述されている．

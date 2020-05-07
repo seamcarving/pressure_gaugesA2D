@@ -1,0 +1,73 @@
+﻿  Control.cpp
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+Control.cpp(81): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+Control.cpp(82): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  DegreeHistgram.cpp
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+DegreeHistgram.cpp(96): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(97): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(101): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(102): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(105): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(141): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(142): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(145): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(146): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(149): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(152): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+DegreeHistgram.cpp(87): warning C4101: 'q': ローカル変数は 1 度も使われていません。
+  Draw.cpp
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+Draw.cpp(40): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+Draw.cpp(48): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(49): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(53): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(54): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(57): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(60): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(61): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(65): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(66): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(69): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Draw.cpp(73): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Ellipse.cpp
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+Ellipse.cpp(107): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+Ellipse.cpp(133): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+Ellipse.cpp(135): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+Ellipse.cpp(141): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+Ellipse.cpp(147): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Labeling.cpp
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  maincode.cpp
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Thinning.cpp
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コード生成しています。
+  549 of 553 functions (99.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  WebCamA2DSys.vcxproj -> H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\x64\Release\WebCamA2DSys.exe
+  WebCamA2DSys.vcxproj -> H:\kitamura\[院]圧力計アナログメータ[master ver]\ソースコード\A2D0103(チューニング後pdf資料コード)\x64\Release\WebCamA2DSys.pdb (Full PDB)
